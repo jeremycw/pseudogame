@@ -1,0 +1,51 @@
+Setup
+  Separate 3rd Bean field cards from deck
+  If 3 Players
+    Remove Cocoa Beans from the deck
+    Each player starts with 3 bean fields, can't buy more
+  If 4 or 5 Players
+    Remove Coffee Beans from the deck
+    Each player starts with 2 fields, can buy 3rd for 3 gold
+  If 6 or 7 Players
+    Remove Cocoa Beans and Garden Beans from the deck
+    Each player starts with 2 fields, can buy 3rd for 2 gold
+
+  If 3 to 5 players
+    Random player deals 5 cards to each player face down
+  If 6 or 7 players
+    Random player deals 3, 4, 5, and then 6 cards clockwise to the players respectively face down
+
+  Players pick up their hands, do not re-order cards, first card dealt is front of hand, last is back
+  Starting player is left of the dealer
+
+Play
+  Player Turn
+    If player has cards in hand
+      Player must plant the first card in hand, must HARVEST if there is no field available
+      Player may plant the second card in hand
+    Flip top two cards of the draw deck onto the table
+      Shuffle discard pile if there are not enough cards to draw
+    Player may now trade cards from their hand as well as those flipped on the table with other players
+    Any traded cards are set aside, they do not go into the players hand
+    All players must now plant the cards set aside in any order from trades including any flipped cards for the active player, they must HARVEST if there is not space
+    If 6 or 7 players
+      Draw 4 cards from top of deck in order to the back of your hand
+      Shuffle discard pile into new deck if not enough cards
+    Else
+      Draw 3 cards from top of deck in order to the back of your hand
+      Shuffle discard pile into new deck if not enough cards
+    Play continues to next player clockwise
+
+  Any Time any Player
+    Harvest their fields for the amount of gold indicated on the cards
+      Flip and set aside the number of cards from your harvest to indicate gold coins
+      Put the rest of the harvest in the discard pile
+    Buy 3rd bean field
+
+Game Over
+  If 3 players
+    Game ends when the deck has been exhausted twice
+  Else
+    Game ends when the deck has been exhausted three times
+  Play continues until the end of the active players turn
+  Player with the most coins wins

@@ -1,0 +1,119 @@
+Setup
+  Put 6 Research stations nearby
+  Separate disease cubes into colors
+  Put 1 research station on Atlanta
+  Put the outbreak marker at 0 on outbreaks track
+  Place the infection rate marker at the left most spot on the track
+  Shuffle the infection cards
+  Flip three infection cards over
+  Put 3 disease cubes of the the colour on the card on their respective cities
+  Flip three infection cards over
+  Put 2 disease cubes of the the colour on the card on their respective cities
+  Flip three infection cards over
+  Put 1 disease cubes of the the colour on the card on their respective cities
+  Place these 9 cards face up in the infection discard pile
+  Shuffle the role cards and deal one to each player face up
+  Place the matching player pawns in Atlanta
+  Remove the epidemic cards from the player deck
+  Shuffle the other player cards (city and event)
+  If 2 players
+    Deal 4 player cards to each player
+  If 3 players
+    Deal 3 player cards to each player
+  If 4 players
+    Deal 2 player cards to each player
+  If introductory game
+    Use 4 epidemic cards
+  If standard game
+    Use 5 epidemic cards
+  If heroic game
+    Use 6 epidemic cards
+  Split the player deck into roughly equal piles so that the number of piles equals the epidemic cards
+  Shufle one epidemic card into each pile
+  Stack the piles to create the player deck
+
+Play
+  Event cards can be played any time except between drawing and resolving an epidemic
+  Actions
+    Do four of
+      Movement
+        Drive/Ferry
+          Move to a city connected by a white line to the one you are in
+        Direct Flight
+          Discard a city card to move to the city on that card
+        Charter Flight
+          Discard a city card that matches the city you are in to move to any city
+        Shuttle Flight
+          Move from a city with a research station to any other city with a research station
+      Build A Research Station
+        Discard a city card that matches the city you are in
+        If there are research stations left in the pile
+          Take from there and place on your city
+        Else
+          Take from anywhere on the board and place on your city
+      Treat Disease
+        If matching disease colour has been cured
+          Remove all cubes and place them in disease pile
+        Else
+          Remve one cube and place it in the disease pile
+        If last cube of cured disease is removed
+          Flip cure vile over to indicate it's eradicated
+      Share Knowledge
+        If other player is in same city and agrees
+          One of
+            Give the city card that matches the city you are in to another player
+            Take the city card that matches the city you are in from another player
+        If player who receives card has more than 7 cards
+          One of
+            Player discards a card
+            Player plays an event card
+      Discover A Cure
+        At any research station discard five cards of the same colour to cure the disease of that colour
+        If no cubes of this colour exist on the board
+          Place vial on flipped side indicating its eradicated
+        Else
+          Place the vial marker on the cure track
+        If this is the 4th cure
+          Players win
+
+  Draw Cards
+    If there are less than 2 cards is player deck
+      You lose
+    Else
+      Draw the top two cards from the player deck
+      If player has more than 7 cards
+        One of
+          Player discards a card
+          Player plays an event card
+    If player drew an epidemic card
+      Move the infection marker up one on the infection track
+      Draw the bottom card from the infection deck
+      If it's disease colour is not eradicated
+        If the city has no cubes of this colour
+          Put three disease cubes of that colour on the named city
+        Else
+          Put cubes on the city to add up to three cubes
+          OUTBREAK
+        If there are not enough cubes to fulfill the requirements above
+          You lose
+        Discard card in infection discard pile
+      Shuffle the cards in the infection discard pile and place them on the bottom of infection deck
+
+  Infections
+    Flip over as many infection cards as the current infection rate
+    For each card
+      If the disease colour is not eradicated
+        If city has 3 disease cubes of matching colour
+          OUTBREAK
+        Else
+          Place an infection cube of the matching colour in the named city
+
+  OUTBREAK
+    Move the outbreaks marker up one on the outbreaks track
+    If the outbreaks marker is in the last spot
+      Players lose
+    In each connected city
+      If there are 3 disease markers if this colour
+        OUTBREAK, except don't add cubes to cities that have already outbreaked
+      Else
+        Place one cube of the disease colour

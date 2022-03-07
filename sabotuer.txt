@@ -1,0 +1,78 @@
+Setup
+  Separate the deck into path, action, nugget and dwarf cards
+  If 3 players
+    Dwarf deck contains 1 sab 3 miners
+  If 4 players
+    Dwarf deck contains 1 sab 4 miners
+  If 5 players
+    Dwarf deck contains 2 sab 3 miners
+  If 6 players
+    Dwarf deck contains 2 sab 5 miners
+  If 7 players
+    Dwarf deck contains 3 sab 5 miners
+  If 8 players
+    Dwarf deck contains 3 sab 6 miners
+  If 9 players
+    Dwarf deck contains 3 sab 7 miners
+  If 10 players
+    Dwarf deck contains all dwarf cards
+  Shuffle dwarf deck and deal out one card to each player face down
+  Set the last dwarf card aside
+  Find find the start card from the path deck (card with ladder)
+  Place it face up at the left side
+  Find the three goal cards, look for bronze backs
+  Shuffle and place the goal cards to the right face down
+    One 7 card widths from the starting card
+    One directly above the first, one card height up
+    One directly below the first, one card height down
+  Shuffle the action and path decks together
+  If 3 to 5 players
+    Deal 6 cards to each player
+  If 6 to 7 players
+    Deal 5 cards to each player
+  If 8 to 10 players
+    Deal 4 cards to each player
+  Shuffle the nugget deck and put it aside
+  Players may look at their hands
+
+Play
+  Player Turn
+    Player must do one of
+      If player does not have broken tools
+        play one path card
+          path cards must connect to an existing path and have an uninterupted path to the start
+          If the played card touches a goal card and creates an uninterrupted path to the start
+            Flip the goal card so that it fits the path
+            If the goal card has the nugget the round is over
+      play one action card
+        cards with crossed out items indicate broken tools and can be played on other players
+        cards with green circle items are fix tool cards and can fix broken tools by matching the symbols
+        Rockfall card can be played to remove and existing path card
+        Map card can be played to secretly view one of the three goal cards
+      discard one card face down in discard pile
+    If cards left in draw deck
+      Player must draw one card
+    Else
+      If no player has playable cards
+        the round is over
+  Round End
+    Dwarf cards are revealed
+    If there is an uninterrupted path to gold
+      The player who flipped the gold goal card draws 1 card for every miner from the nugget deck
+      Starting with this player and going counter-clockwise each miner selects a nugget card from the drawn cards
+    Else
+      If 1 sabotuer
+        They get 4 gold nuggets each
+      If 2 or 3 sabotuers 
+        They get 3 gold nuggets each
+      If 4 sabotuers
+        They get 2 gold nuggets each
+    Reshuffle dwarf cards and deal them out
+    Reshuffle goal cards and reset them
+    Reshuffle action/path deck and deal out again
+    Player to the left of the player who played last starts the round
+    If this is the 3rd round the game is over
+
+Game End
+  Player with the most nuggets wins
+

@@ -1,0 +1,97 @@
+Setup
+  Separate out character cards, place holder cards, provision cards, hate cards, love cards and navigation cards
+  If 4 or 5 players
+    Remove 2 or 1 characters respectively by removing their character, placeholder, love and hate cards
+  Shuffle the character cards and deal one to each player
+  Shuffle the hate deck and deal one to each player
+  Shuffle the love deck and deal one to each player
+  Shuffle the provisions deck and deal one to each player
+  Place the provisions deck at the left side of the table
+  Place the character place holders from left to right in the following order:
+    Lady Lauren
+    Sir Stephen
+    Captain
+    Mate
+    Frenchy
+    Kid
+  Shuffle the navigation deck and place it to the right of the kid
+
+  Players look at their cards and keep them hidden from everyone else, except their character card which is flipped in front of them
+
+Play
+  Quarter Master Phase
+    If the provisions deck has cards
+      Concious player with placeholder closest to provisions deck draws as many cards as there are concious players
+      For each concious player
+        Look at the drawn cards and pick one to add to your provisions hand
+        Pass cards along to next concious player closest to provisions deck
+  Actions Phase
+    Trade freely except in fight
+    For each player starting closest to provisions deck and moving towards navigation deck
+      Select one of
+        Row
+          Draw two navigations cards, place one in the row stack next to the navigation deck and the other at the bottom of the navigation deck
+          Place a red marker above your character card to indicate you rowed this turn
+        Change Seats
+          Trade places with another character
+          If they refuse a fight starts
+        Mug Somebody
+          Take a provision cards from someone, either a face up card or unknown card from hand
+          If they refuse a fight starts
+        Play a Special Action Card
+          The flare gun, parasol and medical kit each require a player to user their action
+        Do Nothing
+      If a fight was started
+        Push the attackers placeholder up slightly
+        Push the defenders placeholder down slightly
+        Any other players may join attacking or defending, push cards up and down respectively
+        Players may play a weapon card on their character
+        Negatiations for assitance are possible but cards may not be exchanged until after the fight is over
+        Deals need not be honored
+        The side with the highest size wins the fight
+        Defenders win ties
+        Each player on the losing side suffers one wound, mark with red marker on character card
+        Mark all players who fought with a red marker below their cards
+        Resolve the effect that started the fight, ie seat change, mugging.
+  Navigation Phase
+    Closest conscious player to navigation deck
+      If row stack exists
+        Looks at row stack and choses one card to play
+        Rest of stack goes face down bottom of nav deck
+      else
+        Resolve top card of nav deck
+      On navigation card
+        Bird gives you bird marker
+        Crossed out bird removes bird marker
+        Overboard
+          Player named at top of card takes wound (unless frenchy or life preserver used)
+          Bucket of chum wounds all players in water immediately
+          Player loses any face up provisions
+        Thirst
+          Red markers above their placeholder applied if there's a row symbol
+          Red markers below their placeholder applied if there's a fight symbol
+          markers are wounds unless player plays water card for each marker
+
+  Unconcious
+    Wounds equal to your size
+    Can't play, but are alive
+  Dead
+    Wounds are greater than size
+    Not alive
+    Overboard removes placeholder and provisions from game
+  
+
+Game End
+  Game ends immediately when the fourth bird is found
+  The winner is whoever has the most victory points calculated by
+    If you dont hate yourself
+      Your are alive, add survival value
+    Character is in boat regardles of survival, add victory points of provision cards
+    Loved one survives, add their survival value, even if it is yourself
+    If your hate yourself
+      add 3 points for each death except you and your love
+    Else
+      Hated one dies, add their survival
+
+
+
