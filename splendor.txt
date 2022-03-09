@@ -1,0 +1,47 @@
+Setup
+  Separate and shuffle the three development decks
+  Place the three decks in a column starting with O at the bottom then OO and OOO moving up
+  Flip 4 cards from each deck placing them in a row horizontal to the deck
+  Separate the gems by colour
+  If 2 players
+    Shuffle the noble tiles and reveal 3 horizontally above the development decks
+    Remove 3 tokens of each gem colour, don't touch gold
+  If 3 players
+    Shuffle the noble tiles and reveal 4 horizontally above the development decks
+    Remove 2 tokens of each gem colour, don't touch gold
+  If 4 players
+    Shuffle the noble tiles and reveal 5 horizontally above the development decks
+
+  Youngest player starts play goes clockwise
+
+Play
+  Gold tokens are wild
+  For each player
+    Do one of the following
+      Take 3 gem tokens of different colours
+      If there are at least 4 tokens of the wanted colour
+        Take 2 gem tokens of the same colour
+      If player has less than 3 cards in hand
+        Reserve 1 development card and take a gold token
+        Flip a new card from the development deck in its place
+      If player has the gems indicated on the bottom left of the development card as tokens + bonuses
+        Purchase a face up development card or one previously reserved
+        If development card was on board
+          Flip a new card from the development deck in its place
+        Place it in front of you in columns according to colour exposing the prestige points and bonus
+        Put the spent tokens back in the piles
+    If player has more than 10 tokens
+      Return tokens to gem piles until player has 10 tokens
+    If player has bonuses equal to or greater than those of a noble tile
+      If more than one eligible noble tile
+        Pick one of the eligible tile s
+      Player gets that noble tile
+    If player has 15 or more prestige points
+      Finish round such that each player has had the same amount of turns then the game is over
+
+Game End
+  Add up the prestige points on owned development cards and noble tiles
+  If there is a prestige point tie
+    Winner is player with least amount of purchased development cards
+  Else
+    Winner has the most prestige points
