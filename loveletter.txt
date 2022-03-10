@@ -1,0 +1,45 @@
+Setup
+  Give each player a reference card
+  Shuffle character cards and place them face down
+  Take the top card and set it aside face down
+  If 2 players
+    Take 3 cards and set them aside face up
+  Deal each player one card from the deck as their starting hand
+
+  If 2 players
+    6 tokens wins game
+  If 3 players
+    5 tokens wins game
+  If 4 players
+    4 tokens wins game
+  If 5 players
+    3 tokens wins game
+  If 6 players
+    3 tokens wins game
+
+  Player to most recently hand write a letter goes first
+
+Play
+  For each round
+    For each player clockwise
+      If there are no cards to draw
+        The round ends
+        All remaining players reveal their hands
+        Player with highest number wins round
+        Winner receives a favour token
+        If winning number of favour tokens has not been reached
+          Start new round
+        Else
+          Player wins
+      Draw a card from the deck
+      Play one of your cards placing it in you "area"
+      Resolve the played cards effects
+      If player or other player is knocked out of round
+        Discard hand face up in front of them
+        If there is only one player left
+          That player receives a favour token
+          If winning number of favour tokens has not been reached
+            Start new round
+          Else
+            Player wins
+
