@@ -20,7 +20,8 @@ Play
           put an unflipped timer token on it
         if guessed card is black on key card
           Game over, you lose
-      While no incorrect guess and player wants to, GUESS
+      While no incorrect guess and player wants to
+        GUESS
       If guess was correct
         Flip timer token and place infront of yourself
   Sudden Death
