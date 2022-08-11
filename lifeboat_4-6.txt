@@ -68,13 +68,17 @@ Play
           Bucket of chum wounds all players in water immediately
           Player loses any face up provisions
         Thirst
-          Red markers above their placeholder applied if there's a row symbol
-          Red markers below their placeholder applied if there's a fight symbol
+          Players receive thirst marker for each of
+            Red markers above their placeholder applied if there's a row symbol
+            Red markers below their placeholder applied if there's a fight symbol
+            Name's listed under "Thirsty"
           markers are wounds unless player plays water card for each marker
 
   Unconcious
     Wounds equal to your size
     Can't play, but are alive
+    If overboard unless life preserver is used
+      You're dead
   Dead
     Wounds are greater than size
     Not alive
@@ -91,7 +95,7 @@ Game End
     If your hate yourself
       add 3 points for each death except you and your love
     Else
-      Hated one dies, add their survival
+      Hated one dies, add their size
 
 
 
