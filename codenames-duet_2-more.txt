@@ -1,0 +1,28 @@
+Setup
+  Shuffle word cards and deal 25 out in a 5x5 grid
+  Place green agent cards and assassin at the side
+  Place 9 timer tokens bystander side up at the side
+  If easier game
+    Place extra timer tokens
+  Shuffle the key cards and pick one, place it in card stand so that each player sees only their side
+
+Play
+  While unflipped timer tokens remain
+    For each player/team
+      Give a one word one number clue to get other player/team to guess the cards marked green on key card
+      GUESS
+        Other player/team touches card they think matches clue
+        if guessed card is green on key card
+          put green agent card over the word card
+          if card is 15th green agent
+            You win
+        if guessed card is tan on key card
+          put an unflipped timer token on it
+        if guessed card is black on key card
+          Game over, you lose
+      While no incorrect guess and player wants to, GUESS
+      If guess was correct
+        Flip timer token and place infront of yourself
+  Sudden Death
+    For any player with remaining cards on board
+      GUESS
