@@ -1,0 +1,43 @@
+Setup
+  Place 3 camel cards face up between players
+  Shuffle the remaining cards
+  Deal 5 cards to each player
+  Place the remaining cards face down as the draw deck
+  Draw 2 cards from the deck and place the face up beside the camels forming market
+  Players remove any camels from their hand and place them face up infront of them making your herd
+  Separate the tokens by goods type and pile them in descending order of value
+  Spread the piles so each token value is visible
+  Separate bonus tokens into piles and shuffle them
+  Set aside 3 tokens of excellence and the camel token
+
+Play
+  While neither player has 2 seals of excellence
+    Start round
+      if not first round reset board
+    While the round continues
+      For each player
+        Do one of
+          Take cards
+            Do one of
+              Take a single good
+                Take a single good from the market
+                Flip a card from the draw pile in its place
+              Exchange goods
+                Take as many goods from the market as you want
+                Replace those cards with ones from your hand or herd
+              Take the camels
+                Take all the camels from the market and put them in your herd
+          Sell Cards
+            If good type is silver, diamonds or gold
+              Discard at least 2 of a single good face up in the discard pile
+            Else
+              Discard as many as you want of a single good face up in the discard pile
+            Take tokens from the top of the pile of the good type discarded for each card
+              Place them top side up in front of you
+            If more than 3 cards sold
+              take bonus token equal to the amount of cards sold, it's value is on the back of the token
+        If 3 types of good tokens are depleted or the market can't be filled to 5 cards
+          Player with the most camels in herd receives camel token worth 5 rupees
+          Flip all the tokens in front of you to reveal their rupee value
+          Add up each players ruppees whoever has the most gets an excellence token
+          End round, player who lost starts next round
