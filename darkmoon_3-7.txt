@@ -1,0 +1,38 @@
+Setup
+  Place 2 shield tokens on the first two spots of shield track (nuke facedown)
+  Randomly draw two Outpost tokens (brown gear) and place on appropriate Outpost status spot
+  Place fatigue tokens (ekg line) in a facedown pile next to the board
+  Place Sabotage, Die (square plus) and Quarantine tokens next to the board
+  Place the red suspicion token (red block) at first position on vote track
+  Place the blue difficulty cube and black success cube above the difficulty track
+  Shuffle character cards and deal one faceup to each player
+  Give each player uninfected screen that matches their character
+  Give each player two black strong dice and two weak red dice
+  Give each player a participation token (in/out)
+  Randomly draw fatigue tokens until participating player is drawn
+  Drawn player is the commander, gets commander card and blue die
+  Randomly draw a final event card and place it faceup on camera 4
+  Shuffle the three Infected status cards together
+  If 3 players
+    Draw 1 infected card and shuffle it with 2 uninfected cards together
+    Use silver task deck
+    Remove voluntary blood testing card
+  If 4 players
+    Draw 1 infected card and shuffle it with 3 uninfected cards together
+    Use black task deck
+    Remove voluntary blood testing card
+  If 5 players
+    Draw 2 infected card and shuffle it with 3 uninfected cards together
+    Use silver task deck
+  If 6 players
+    Draw 2 infected card and shuffle it with 4 uninfected cards together
+    Use black task deck
+  If 7 players
+    Draw 3 infected card and shuffle it with 4 uninfected cards together
+    Use silver task deck
+  Remove any leftover status cards from the game without revealing them
+  Deal one status card to each player facedown
+  ***
+  Shuffle the task deck and put it beside the board
+  Shuffle the event deck and place it next to the board
+
